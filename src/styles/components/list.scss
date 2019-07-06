@@ -1,0 +1,45 @@
+.wrapper-header{
+  margin-top: 30px;
+  max-width: 700px;
+  margin-bottom: 15px;
+}
+#numUser{
+  width: 50px;
+  text-align: center;
+}
+.descUser{
+  position: absolute;
+  left: 0;
+  top: 22px;
+  font-size: 11px;
+}
+.wrapper-headerUser{
+  display: inline-block;
+  width: 200px;
+  color: grey;
+}
+.wrapper-body{
+  max-width: 850px;
+  margin-top: 60px;;
+}
+
+.item-user{
+  display: inline-block;
+  padding: 12px 12px 22px;
+  border-radius: 5px;
+  border: 1px solid whitesmoke;
+  margin: 7px 3px;
+  &:hover{
+    background: whitesmoke;
+  }
+  img{
+    border-radius: 7px;
+  }
+  h2{
+    font-size: 15px;
+    font-weight: bold;
+  }
+  p{
+    font-size: 12px;
+  }
+}
