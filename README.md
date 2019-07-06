@@ -1,5 +1,5 @@
 # App demo
-[![Javascript]] [![Webpack]] [![Scss]]
+[Javascript] [Webpack] [Scss] [HTML] [Rest-Api] [JSON] [Node]
 
 El App se puede probar en el sgte link:
 [Ver demo](https://kike.pe/marathon/)
