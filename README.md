@@ -1,5 +1,12 @@
-# App demo
+# App Carga de usuarios
 [Javascript] [Webpack] [Scss] [HTML] [Rest-Api] [JSON] [Node]
+
+El siguiente proyecto tiene como finalidad conectarse a una api rest, consumir datos de ella y validar usuario con un login.
+Para poder hacer el test los datos de validación son los siguientes:
+- u: eve.holt@reqres.in
+- p: cityslicka
+
+Se envía estos datos a la Api y si existe retorna un token. Una vez que se ingrese se puede traer información de los usuarios ingresando el id de usuario en el campo y luego al botón, esto envía ese parámetro al API y devuelve la información de dicho usuario.
 
 El App se puede probar en el sgte link:
 [Ver demo](https://kike.pe/marathon/)
@@ -23,3 +30,5 @@ Los usuarios aparecerán en la parte inferior
 ![alt login](https://kike.pe/marathon/img/step3.png)
 
 - Para este proyecto se usó un [hosted REST-API](https://reqres.in/)
+
+Develop by `Enrique Sánchez Quintanilla`
